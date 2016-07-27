@@ -1,0 +1,5 @@
+[Timer]
+OnCalendar=*:0/1
+Unit=neptcheck.service
+[Install]
+WantedBy=multi-user.target
